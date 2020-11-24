@@ -1,0 +1,46 @@
+Link: http://localhost:3001/
+
+Codigo:
+{
+  "Navegadores": [
+    {
+      "id": 1,
+      "Nombres": "Carlos Eduardo",
+      "Apellidos": "Flores Ortega",
+      "Ussername": "Carliño",
+      "Password": "14a3ed8dbf55f811d0591f7691f0d834"
+    },
+    {
+      "id": 2,
+      "Nombres": "Ana Sofía",
+      "Apellidos": "Agudelo Hoyos",
+      "Ussername": "AnaS",
+      "Password": "992a6d18b2a148cf20d9014c3524aa11"
+    },
+    {
+      "id": 4,
+      "Nombres": "Isabela",
+      "Apellidos": "Giraldo",
+      "Ussername": "Isabel",
+      "Password": "cb24ef3284c9fa50d6af86d21dc35b64"
+    },
+    {
+      "Nombres": "Mateo",
+      "Apellidos": "Castaño",
+      "Ussername": "mateo009",
+      "Password": "987632",
+      "id": 5
+    }
+  ],
+  "Usuarios": [
+      {
+          "Id grupo de estudio": "Sustancias Didacticas",
+          "Id usuario": 1
+      },
+      {
+          "Id grupo de estudio": "TeachArt",
+          "Id usuario": 2
+
+      }
+  ]
+} 
